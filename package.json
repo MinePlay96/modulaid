@@ -1,0 +1,34 @@
+{
+  "name": "modulaid",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinePlay96/modulaid.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Leon Strauß"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MinePlay96/modulaid/issues"
+  },
+  "homepage": "https://github.com/MinePlay96/modulaid#readme",
+  "devDependencies": {
+    "@types/node": "^16.7.10",
+    "typescript": "^4.4.2"
+  },
+  "config": {
+    "test": 3
+  },
+  "dependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-strauss-cleanone-typescript": "^1.1.2",
+    "vm2": "^3.9.3"
+  }
+}

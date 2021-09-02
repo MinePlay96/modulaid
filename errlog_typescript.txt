@@ -1,0 +1,12 @@
+VMError [Error]: Access denied to require 'fs'
+    at _require (D:\Programme\modulaid\node_modules\vm2\lib/sandbox.js:296:25)
+    at getNodeSystem (D:\Programme\modulaid\node_modules\typescript\lib\typescript.js:7406:23)
+    at D:\Programme\modulaid\node_modules\typescript\lib\typescript.js:7980:19
+    at D:\Programme\modulaid\node_modules\typescript\lib\typescript.js:7987:7
+    at Object.<anonymous> (D:\Programme\modulaid\node_modules\typescript\lib\typescript.js:7997:3)
+    at NodeVM.run (D:\Programme\modulaid\node_modules\vm2\lib\main.js:1167:29)
+    at NodeVM.runFile (D:\Programme\modulaid\node_modules\vm2\lib\main.js:926:15)
+    at Module.run (D:\Programme\modulaid\dist\classes\Module.js:46:21)
+    at D:\Programme\modulaid\dist\index.js:6:12 {
+  code: 'EDENIED'
+}
